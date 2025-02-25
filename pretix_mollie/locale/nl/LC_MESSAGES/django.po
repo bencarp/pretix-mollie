@@ -289,13 +289,21 @@ msgstr "Mollie Connect: Client ID"
 msgid "Mollie Connect: Client secret"
 msgstr "Mollie Connect: Clientgeheim"
 
-#: pretix_mollie/templates/pretix_mollie/checkout_payment_confirm.html:3
-#: pretix_mollie/templates/pretix_mollie/checkout_payment_form.html:3
+#: pretix_mollie/templates/pretix_mollie/checkout_payment_confirm.html:4
 msgid ""
 "After you submitted your order, we will redirect you to Mollie to complete "
 "your payment. You will then be redirected back here to get your tickets."
 msgstr ""
 "Nadat u uw bestelling heeft ingediend zullen we u naar Mollie doorverwijzen "
+"om uw betaling uit te voeren. U zult hierna naar hier worden teruggestuurd "
+"om uw tickets te krijgen."
+
+#: pretix_mollie/templates/pretix_mollie/checkout_payment_form.html:4
+msgid ""
+"After you submitted your order, we will redirect you to our payment provider to complete "
+"your payment. You will then be redirected back here to get your tickets."
+msgstr ""
+"Nadat u uw bestelling heeft ingediend zullen we u naar onze payment provider doorverwijzen "
 "om uw betaling uit te voeren. U zult hierna naar hier worden teruggestuurd "
 "om uw tickets te krijgen."
 
